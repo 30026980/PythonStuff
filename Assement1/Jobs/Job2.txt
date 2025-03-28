@@ -1,0 +1,5 @@
+/home/ec2-user/environment/DumbStuff
+/home/ec2-user/environment/TestFiles
+/home/ec2-user/environment/DumbStuff/DumbGame.py
+/home/ec2-user/environment/TestFiles/Class.py
+/home/ec2-user/environment/TestFiles/Class.py
